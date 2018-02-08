@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSPI.iml" filepath="$PROJECT_DIR$/AndroidSPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amoudle/amoudle.iml" filepath="$PROJECT_DIR$/amoudle/amoudle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmoudle/bmoudle.iml" filepath="$PROJECT_DIR$/bmoudle/bmoudle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+    </modules>
+  </component>
+</project>
